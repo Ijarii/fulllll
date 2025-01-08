@@ -1,0 +1,39 @@
+{
+  "Fast Food": [
+    { "id": 1, "name": "Pizza", "price": 250, "image": "pizza.jpg" },
+    { "id": 2, "name": "Burger", "price": 200, "image": "burger.jpg" },
+    { "id": 3, "name": "French Fries", "price": 100, "image": "french-fries.jpg" },
+    { "id": 4, "name": "Pasta", "price": 200, "image": "pasta.jpg" },
+    { "id": 5, "name": "Momos", "price": 100, "image": "momos.jpg" },
+    { "id": 6, "name": "Paneer Tikka", "price": 180, "image": "paneer-tikka.jpg" }
+  ],
+  "Chinese": [
+    { "id": 7, "name": "Sushi", "price": 400, "image": "sushi.jpg" },
+    { "id": 8, "name": "Noodles", "price": 150, "image": "noodles.jpg" }
+  ],
+  "Grill": [
+    { "id": 9, "name": "Grilled Cheese Sandwich", "price": 150, "image": "grilled-cheese-sandwich.jpg" },
+    { "id": 10, "name": "BBQ Paneer Wrap", "price": 150, "image": "bbq-paneer-wrap.jpg" },
+    { "id": 11, "name": "Mushroom Tikka", "price": 120, "image": "mushroom-tikka.jpg" }
+  ],
+  "Desserts": {
+    "Ice Creams": [
+      { "id": 12, "name": "Vanilla Ice Cream", "price": 80, "image": "vanilla-ice-cream.jpg" },
+      { "id": 13, "name": "Chocolate Ice Cream", "price": 90, "image": "chocolate-ice-cream.jpg" },
+      { "id": 14, "name": "Strawberry Ice Cream", "price": 100, "image": "strawberry-ice-cream.jpg" },
+      { "id": 15, "name": "Mango Ice Cream", "price": 110, "image": "mango-ice-cream.jpg" }
+    ],
+    "Sweets": [
+      { "id": 16, "name": "Gulab Jamun", "price": 40, "image": "gulab-jamun.jpg" },
+      { "id": 17, "name": "Rasgulla", "price": 60, "image": "rasgulla.jpg" },
+      { "id": 18, "name": "Jalebi", "price": 50, "image": "jalebi.jpg" },
+      { "id": 19, "name": "Kaju Katli", "price": 70, "image": "kaju-katli.jpg" }
+    ]
+  },
+  "Juices": [
+    { "id": 20, "name": "Orange Juice", "price": 40, "image": "orange-juice.jpeg" },
+    { "id": 21, "name": "Mango Juice", "price": 60, "image": "mango-juice.jpeg" },
+    { "id": 22, "name": "Pineapple Juice", "price": 60, "image": "pineapple-juice.jpg" },
+    { "id": 23, "name": "Apple Juice", "price": 70, "image": "apple-juice.jpg" }
+  ]
+}

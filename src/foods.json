@@ -1,0 +1,30 @@
+{
+  "Fast Food": [
+    { "id": 1, "name": "Pizza", "price": 250, "image": "pizza.jpg" },
+    { "id": 2, "name": "Burger", "price": 200, "image": "burger.jpg" },
+    { "id": 3, "name": "French Fries", "price": 100, "image": "french-fries.jpg" }
+  ],
+  "Chinese": [
+    { "id": 4, "name": "Sushi", "price": 400, "image": "sushi.jpg" },
+    { "id": 5, "name": "Noodles", "price": 150, "image": "noodles.jpg" }
+  ],
+  "Desserts": {
+    "Ice Creams": [
+      { "id": 6, "name": "Vanilla Ice Cream", "price": 80, "image": "vanilla-ice-cream.jpg" },
+      { "id": 7, "name": "Chocolate Ice Cream", "price": 90, "image": "chocolate-ice-cream.jpg" },
+      { "id": 10, "name": "Strawberry Ice Cream", "price": 100, "image": "strawberry-ice-cream.jpg" },
+      { "id": 11, "name": "Mango Ice Cream", "price": 110, "image": "mango-ice-cream.jpg" }
+    ],
+    "Sweets": [
+      { "id": 9, "name": "Gulab Jamun", "price": 40, "image": "gulab-jamun.jpg" },
+      { "id": 13, "name": "Rasgulla", "price": 60, "image": "rasgulla.jpg" },
+      { "id": 14, "name": "Jalebi", "price": 50, "image": "jalebi.jpg" },
+      { "id": 15, "name": "Kaju Katli", "price": 70, "image": "kaju-katli.jpg" }
+    ]
+  },
+  "Juices": [
+    { "id": 16, "name": "Orange Juice", "price": 40, "image": "orange-juice.jpg" },
+    { "id": 18, "name": "Mango Juice", "price": 60, "image": "mango-juice.jpg" },
+    { "id": 19, "name": "Pineapple Juice", "price": 60, "image": "pineapple-juice.jpg" }
+  ]
+}
